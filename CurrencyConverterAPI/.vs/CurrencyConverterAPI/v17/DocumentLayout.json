@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11397B16-B5C9-4590-A817-92BB3E6BD106}|TestCurrencyConverterAPI\\TestCurrencyConverterAPI.csproj|c:\\users\\rohai\\source\\repos\\currencyconverterapi\\testcurrencyconverterapi\\currencycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11397B16-B5C9-4590-A817-92BB3E6BD106}|TestCurrencyConverterAPI\\TestCurrencyConverterAPI.csproj|solutionrelative:testcurrencyconverterapi\\currencycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\rohai\\source\\repos\\currencyconverterapi\\currencyconverterapi\\currencyconverterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\currencyconverterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\rohai\\source\\repos\\currencyconverterapi\\currencyconverterapi\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\rohai\\source\\repos\\currencyconverterapi\\currencyconverterapi\\models\\conversionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\models\\conversionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\rohai\\source\\repos\\currencyconverterapi\\currencyconverterapi\\models\\exchangerates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\models\\exchangerates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\rohai\\source\\repos\\currencyconverterapi\\currencyconverterapi\\models\\historicalratesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\models\\historicalratesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|c:\\users\\rohai\\source\\repos\\currencyconverterapi\\currencyconverterapi\\currencyconverterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F7B676AF-9014-4F8C-83EF-C2AE6A820A28}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\currencyconverterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyConverterAPI",
+              "DocumentMoniker": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+              "ToolTip": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+              "RelativeToolTip": "CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T19:34:11.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Controllers\\CurrencyController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:18:01.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\ConversionRequest.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Models\\ConversionRequest.cs",
+              "ToolTip": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\ConversionRequest.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Models\\ConversionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:29:25.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRates.cs",
+              "DocumentMoniker": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\ExchangeRates.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Models\\ExchangeRates.cs",
+              "ToolTip": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\ExchangeRates.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Models\\ExchangeRates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:28:51.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoricalRatesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\HistoricalRatesRequest.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Models\\HistoricalRatesRequest.cs",
+              "ToolTip": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\HistoricalRatesRequest.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Models\\HistoricalRatesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:28:46.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrencyConverterAPI.http",
+              "DocumentMoniker": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.http",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\CurrencyConverterAPI.http",
+              "ToolTip": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.http",
+              "RelativeToolTip": "CurrencyConverterAPI\\CurrencyConverterAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-07T19:28:37.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\TestCurrencyConverterAPI\\CurrencyControllerTests.cs",
+              "RelativeDocumentMoniker": "TestCurrencyConverterAPI\\CurrencyControllerTests.cs",
+              "ToolTip": "C:\\Users\\Rohai\\source\\repos\\CurrencyConverterAPI\\TestCurrencyConverterAPI\\CurrencyControllerTests.cs",
+              "RelativeToolTip": "TestCurrencyConverterAPI\\CurrencyControllerTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAKoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:19:23.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

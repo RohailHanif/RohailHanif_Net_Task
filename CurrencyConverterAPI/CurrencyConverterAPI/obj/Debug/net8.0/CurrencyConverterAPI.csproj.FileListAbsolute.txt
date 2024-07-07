@@ -1,0 +1,65 @@
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.exe
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.deps.json
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.runtimeconfig.json
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.dll
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.pdb
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.csproj.AssemblyReference.cache
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.AssemblyInfoInputs.cache
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.AssemblyInfo.cs
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets\msbuild.CurrencyConverterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CurrencyConverterAPI.props
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CurrencyConverterAPI.props
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CurrencyConverterAPI.props
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\scopedcss\bundle\CurrencyConverterAPI.styles.css
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\Currency.6EF34A61.Up2Date
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.dll
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\refint\CurrencyConverterAPI.dll
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.pdb
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.genruntimeconfig.cache
+C:\Users\Rohai\source\repos\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\ref\CurrencyConverterAPI.dll
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\appsettings.json
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.exe
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.deps.json
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.runtimeconfig.json
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.dll
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\CurrencyConverterAPI.pdb
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.csproj.AssemblyReference.cache
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.AssemblyInfoInputs.cache
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.AssemblyInfo.cs
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.csproj.CoreCompileInputs.cache
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.sourcelink.json
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets\msbuild.CurrencyConverterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CurrencyConverterAPI.props
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CurrencyConverterAPI.props
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CurrencyConverterAPI.props
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\scopedcss\bundle\CurrencyConverterAPI.styles.css
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\Currency.6EF34A61.Up2Date
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.dll
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\refint\CurrencyConverterAPI.dll
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.pdb
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\CurrencyConverterAPI.genruntimeconfig.cache
+D:\Git Code\GIT HUB\RohailHanif_Net_Task\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\net8.0\ref\CurrencyConverterAPI.dll
