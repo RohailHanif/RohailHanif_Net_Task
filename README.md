@@ -11,7 +11,7 @@ This project is a simple currency converter API built with ASP.NET Core. It retr
 ### Steps to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/CurrencyConverterAPI.git
+    git clone https://github.com/RohailHanif/RohailHanif_Net_Task
     cd CurrencyConverterAPI
     ```
 
